@@ -1,0 +1,22 @@
+{"foo":123, 
+	"bar":{	
+		"baz":"hello",
+		"lol":['a','b', 'c']
+	},
+	"bar":{	
+		"baz":"hello",
+		"lol":['a','b', 'c']
+	},
+	"bar":{	
+		"baz":"hello",
+		"lol":['a','b', 'c']
+	}
+	"input":{
+		"inner": "inside",
+		"second_inner":{
+			"time":123,
+			"hello":"world"
+		}
+		"end": false
+	
+}
